@@ -34,4 +34,5 @@ class Star {
         line(px, py, sx, sy);
     }
 
+    delete() {}
 }
